@@ -1,5 +1,4 @@
 class Solution(object):
-   class Solution(object):
     def romanToInt(self, s):
         """
         :type s: str
@@ -27,8 +26,3 @@ class Solution(object):
             prev_value = current_value
 
         return total
-        pass
-
-
-
-
